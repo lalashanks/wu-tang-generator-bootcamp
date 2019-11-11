@@ -1,3 +1,31 @@
-*{
-  box-sizing: border-box;
+body{
+    background-image: url(http://d279m997dpfwgl.cloudfront.net/wp/2018/10/wutang-1000x602.jpg);
+    background-repeat: round;
+    color: white;
+}
+
+header{
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h4{
+    color:red;
+    font-size: 40px;
+}
+
+label{
+    font-size: 30px;
+    color: white;
+ 
+}
+
+span{
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px;
 }
